@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Setting>
+  <Time>36000</Time>
+  <DetailsCount>30</DetailsCount>
+  <Threshold>3</Threshold>
+  <GetDetailActivity>
+    <MinTime>50</MinTime>
+    <MaxTime>70</MaxTime>
+  </GetDetailActivity>
+  <OrderActivity>
+    <MinTime>1</MinTime>
+    <MaxTime>60</MaxTime>
+  </OrderActivity>
+  <ComplectDetailsActivity>
+    <MinTime>40</MinTime>
+    <MaxTime>80</MaxTime>
+  </ComplectDetailsActivity>
+  <DeliverActivity>
+    <MinTime>55</MinTime>
+    <MaxTime>65</MaxTime>
+  </DeliverActivity>
+</Setting> 
